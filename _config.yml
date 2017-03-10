@@ -1,10 +1,11 @@
 
 markdown: rdiscount
+comment: True
 highlighter: pygments
 
 permalink: /:title
 
 title: test
 url: http://siberiawolf.com
-feed: /atom.xml  
+feed: /atom.xml
 author_info: <a href="http://siberiawolf.com/">siberiawolf</a>
