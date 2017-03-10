@@ -13,17 +13,29 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
+            <!-- <li>
+                <h2>
+                    <a href="/free_programming/index.html">我是谁</a>
+                </h2>
+                <div class="title-desc">xy 一个低级趣味的人</div>
+            </li> -->
             <li>
                 <h2>
-                    <a href="/free_programming/index.html">免费的编程中文书籍索引</a>
+                    <a href="/free_programming/index.html">我是谁</a>
                 </h2>
-                <div class="title-desc">免费的编程中文书籍索引，欢迎投稿</div>
+                <div class="title-desc">xy 一个低级趣味的人</div>
             </li>
             <li>
                 <h2>
-                    <a href="/frontend_knowledge/index.html">前端知识结构图</a>
+                    <a href="/free_programming/index.html">我在做什么</a>
                 </h2>
-                <div class="title-desc">通过可视化图形界面展示前端知识结构图</div>
+                <div class="title-desc">暂时不准备搞事情,这里主要是技术积累的oplog</div>
+            </li>
+            <li>
+                <h2>
+                    <a href="/frontend_knowledge/index.html">我要去哪里</a>
+                </h2>
+                <div class="title-desc">嘿嘿嘿 嘿嘿嘿</div>
             </li>
         </ul>
     </div>
