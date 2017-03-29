@@ -5,6 +5,7 @@ description: 第一个Gulp程序；Gulp压缩html代码；Gulp合并、压缩JS�
 category: blog
 ---
 
+## 读书
 关于知识对于我们不再是一个accessable的问题,而是关于选择的问题.
 很荣幸读到了这本书,感激作者Steve McConnell,以及朋友的推荐.
 很多人给你说了这个有用,那个有用,如果你没有经历过,可能别人的建议也就只是建议而已.
